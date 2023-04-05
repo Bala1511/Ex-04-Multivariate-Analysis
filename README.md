@@ -58,3 +58,7 @@ OUTPUT:
 ![ws2 7](https://user-images.githubusercontent.com/118680410/230148596-854cded5-f2d9-4fd3-b6a2-1335addd8581.png)
 ![ws2 8](https://user-images.githubusercontent.com/118680410/230148463-7930beec-bce8-4d3d-8e1f-05717204c0ac.png)
 ![ws2 9](https://user-images.githubusercontent.com/118680410/230148808-41d9f9b2-56f6-45e5-8092-6befe3bcc7a3.png)
+
+RESULT:
+
+thus the experiment executed sucessfully.
